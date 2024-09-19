@@ -4,7 +4,7 @@ Name: **Davis, James R.**
 
 Section: **2ECE-D Date**                                                     
 
-Submitted: **September 12, 2024**
+Submitted: **September 19, 2024**
 
 **I. Intended Learning Outcomes:**
 
