@@ -19,9 +19,13 @@ For this programming assignment, download the following file and save to your de
 
 # PROBLEM 1: 
 Save your file as Surname_Pandas-P1.py
+
 Using knowledge obtained from the experiment and demonstrations:
+
 a. Load the corresponding .csv file into a data frame named cars using pandas
+
 b. Display the first five and last five rows of the resulting cars.
+
 <img width="995" alt="Screen Shot 2024-09-19 at 9 41 23 AM" src="https://github.com/user-attachments/assets/69af964a-9ec6-4c6a-88a2-7ffa859bce70">
 <img width="1000" alt="Screen Shot 2024-09-19 at 9 41 51 AM" src="https://github.com/user-attachments/assets/eb702924-16ac-4b38-88e2-336262a20bcc">
 <img width="1002" alt="Screen Shot 2024-09-19 at 9 42 19 AM" src="https://github.com/user-attachments/assets/f4533db4-6817-4ce6-904b-621d554a7a9a">
